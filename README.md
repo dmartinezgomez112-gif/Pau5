@@ -1,2 +1,0 @@
-# Pau5
-Aplicación
